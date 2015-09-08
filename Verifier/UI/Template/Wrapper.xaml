@@ -1,0 +1,22 @@
+﻿<mui:ModernWindow x:Class="Verifier.UI.Template.Wrapper"
+                  xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                  xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                  xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+                  xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+                  xmlns:mui="http://firstfloorsoftware.com/ModernUI"
+                  mc:Ignorable="d" 
+                  Height="600" Width="800" Icon="/Verifier;component/UI/Assets/Upload.ico" 
+                  Title="Smart Verification"
+                  Style="{StaticResource BlankWindow}">
+    <ScrollViewer>
+        <DockPanel>
+            <StackPanel DockPanel.Dock="Left">
+                <WebBrowser Name="webBrowser"></WebBrowser>
+                <Image Source="pack://application:,,,/Verifier;component/UI/Assets/qrcode.png"></Image>
+            </StackPanel>
+            <StackPanel>
+                <Button Name="btnUploadFile" Margin="0 10 0 10" Click="BtnUploadFile_OnClick">بارگذاری اطلاعات</Button>
+            </StackPanel>
+        </DockPanel>
+    </ScrollViewer>
+</mui:ModernWindow>

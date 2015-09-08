@@ -1,0 +1,99 @@
+C:\Users\AbouzarKamaee\Source\Repos\Manifest\FirstFloor.ModernUI\FirstFloor.ModernUI.WPF4\bin\Debug\FirstFloor.ModernUI.XML
+C:\Users\AbouzarKamaee\Source\Repos\Manifest\FirstFloor.ModernUI\FirstFloor.ModernUI.WPF4\bin\Debug\FirstFloor.ModernUI.dll
+C:\Users\AbouzarKamaee\Source\Repos\Manifest\FirstFloor.ModernUI\FirstFloor.ModernUI.WPF4\bin\Debug\FirstFloor.ModernUI.pdb
+C:\Users\AbouzarKamaee\Source\Repos\Manifest\FirstFloor.ModernUI\FirstFloor.ModernUI.WPF4\bin\Debug\Microsoft.Windows.Shell.dll
+C:\Users\AbouzarKamaee\Source\Repos\Manifest\FirstFloor.ModernUI\FirstFloor.ModernUI.WPF4\obj\Debug\Button.baml
+C:\Users\AbouzarKamaee\Source\Repos\Manifest\FirstFloor.ModernUI\FirstFloor.ModernUI.WPF4\obj\Debug\Calendar.baml
+C:\Users\AbouzarKamaee\Source\Repos\Manifest\FirstFloor.ModernUI\FirstFloor.ModernUI.WPF4\obj\Debug\CheckBox.baml
+C:\Users\AbouzarKamaee\Source\Repos\Manifest\FirstFloor.ModernUI\FirstFloor.ModernUI.WPF4\obj\Debug\ComboBox.baml
+C:\Users\AbouzarKamaee\Source\Repos\Manifest\FirstFloor.ModernUI\FirstFloor.ModernUI.WPF4\obj\Debug\ContextMenu.baml
+C:\Users\AbouzarKamaee\Source\Repos\Manifest\FirstFloor.ModernUI\FirstFloor.ModernUI.WPF4\obj\Debug\DataGrid.baml
+C:\Users\AbouzarKamaee\Source\Repos\Manifest\FirstFloor.ModernUI\FirstFloor.ModernUI.WPF4\obj\Debug\GridSplitter.baml
+C:\Users\AbouzarKamaee\Source\Repos\Manifest\FirstFloor.ModernUI\FirstFloor.ModernUI.WPF4\obj\Debug\Hyperlink.baml
+C:\Users\AbouzarKamaee\Source\Repos\Manifest\FirstFloor.ModernUI\FirstFloor.ModernUI.WPF4\obj\Debug\Label.baml
+C:\Users\AbouzarKamaee\Source\Repos\Manifest\FirstFloor.ModernUI\FirstFloor.ModernUI.WPF4\obj\Debug\ListBox.baml
+C:\Users\AbouzarKamaee\Source\Repos\Manifest\FirstFloor.ModernUI\FirstFloor.ModernUI.WPF4\obj\Debug\ListView.baml
+C:\Users\AbouzarKamaee\Source\Repos\Manifest\FirstFloor.ModernUI\FirstFloor.ModernUI.WPF4\obj\Debug\MenuItem.baml
+C:\Users\AbouzarKamaee\Source\Repos\Manifest\FirstFloor.ModernUI\FirstFloor.ModernUI.WPF4\obj\Debug\ModernUI.Dark.baml
+C:\Users\AbouzarKamaee\Source\Repos\Manifest\FirstFloor.ModernUI\FirstFloor.ModernUI.WPF4\obj\Debug\ModernUI.Light.baml
+C:\Users\AbouzarKamaee\Source\Repos\Manifest\FirstFloor.ModernUI\FirstFloor.ModernUI.WPF4\obj\Debug\ModernUI.baml
+C:\Users\AbouzarKamaee\Source\Repos\Manifest\FirstFloor.ModernUI\FirstFloor.ModernUI.WPF4\obj\Debug\PasswordBox.baml
+C:\Users\AbouzarKamaee\Source\Repos\Manifest\FirstFloor.ModernUI\FirstFloor.ModernUI.WPF4\obj\Debug\RadioButton.baml
+C:\Users\AbouzarKamaee\Source\Repos\Manifest\FirstFloor.ModernUI\FirstFloor.ModernUI.WPF4\obj\Debug\ScrollBar.baml
+C:\Users\AbouzarKamaee\Source\Repos\Manifest\FirstFloor.ModernUI\FirstFloor.ModernUI.WPF4\obj\Debug\TextBlock.baml
+C:\Users\AbouzarKamaee\Source\Repos\Manifest\FirstFloor.ModernUI\FirstFloor.ModernUI.WPF4\obj\Debug\TextBox.baml
+C:\Users\AbouzarKamaee\Source\Repos\Manifest\FirstFloor.ModernUI\FirstFloor.ModernUI.WPF4\obj\Debug\ToolTip.baml
+C:\Users\AbouzarKamaee\Source\Repos\Manifest\FirstFloor.ModernUI\FirstFloor.ModernUI.WPF4\obj\Debug\TreeView.baml
+C:\Users\AbouzarKamaee\Source\Repos\Manifest\FirstFloor.ModernUI\FirstFloor.ModernUI.WPF4\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\AbouzarKamaee\Source\Repos\Manifest\FirstFloor.ModernUI\FirstFloor.ModernUI.WPF4\obj\Debug\FirstFloor.ModernUI_MarkupCompile.cache
+C:\Users\AbouzarKamaee\Source\Repos\Manifest\FirstFloor.ModernUI\FirstFloor.ModernUI.WPF4\obj\Debug\FirstFloor.ModernUI_MarkupCompile.lref
+C:\Users\AbouzarKamaee\Source\Repos\Manifest\FirstFloor.ModernUI\FirstFloor.ModernUI.WPF4\obj\Debug\Converters.baml
+C:\Users\AbouzarKamaee\Source\Repos\Manifest\FirstFloor.ModernUI\FirstFloor.ModernUI.WPF4\obj\Debug\DatePicker.baml
+C:\Users\AbouzarKamaee\Source\Repos\Manifest\FirstFloor.ModernUI\FirstFloor.ModernUI.WPF4\obj\Debug\ModernProgressRing.baml
+C:\Users\AbouzarKamaee\Source\Repos\Manifest\FirstFloor.ModernUI\FirstFloor.ModernUI.WPF4\obj\Debug\ProgressBar.baml
+C:\Users\AbouzarKamaee\Source\Repos\Manifest\FirstFloor.ModernUI\FirstFloor.ModernUI.WPF4\obj\Debug\Slider.baml
+C:\Users\AbouzarKamaee\Source\Repos\Manifest\FirstFloor.ModernUI\FirstFloor.ModernUI.WPF4\obj\Debug\BBCodeBlock.baml
+C:\Users\AbouzarKamaee\Source\Repos\Manifest\FirstFloor.ModernUI\FirstFloor.ModernUI.WPF4\obj\Debug\Generic.baml
+C:\Users\AbouzarKamaee\Source\Repos\Manifest\FirstFloor.ModernUI\FirstFloor.ModernUI.WPF4\obj\Debug\ModernButton.baml
+C:\Users\AbouzarKamaee\Source\Repos\Manifest\FirstFloor.ModernUI\FirstFloor.ModernUI.WPF4\obj\Debug\ModernFrame.baml
+C:\Users\AbouzarKamaee\Source\Repos\Manifest\FirstFloor.ModernUI\FirstFloor.ModernUI.WPF4\obj\Debug\ModernMenu.baml
+C:\Users\AbouzarKamaee\Source\Repos\Manifest\FirstFloor.ModernUI\FirstFloor.ModernUI.WPF4\obj\Debug\ModernTab.baml
+C:\Users\AbouzarKamaee\Source\Repos\Manifest\FirstFloor.ModernUI\FirstFloor.ModernUI.WPF4\obj\Debug\TransitioningContentControl.baml
+C:\Users\AbouzarKamaee\Source\Repos\Manifest\FirstFloor.ModernUI\FirstFloor.ModernUI.WPF4\obj\Debug\Assets\ModernWindowEx.baml
+C:\Users\AbouzarKamaee\Source\Repos\Manifest\FirstFloor.ModernUI\FirstFloor.ModernUI.WPF4\obj\Debug\Themes\ModernDialog.baml
+C:\Users\AbouzarKamaee\Source\Repos\Manifest\FirstFloor.ModernUI\FirstFloor.ModernUI.WPF4\obj\Debug\Themes\ModernWindow.baml
+C:\Users\AbouzarKamaee\Source\Repos\Manifest\FirstFloor.ModernUI\FirstFloor.ModernUI.WPF4\obj\Debug\FirstFloor.ModernUI.g.resources
+C:\Users\AbouzarKamaee\Source\Repos\Manifest\FirstFloor.ModernUI\FirstFloor.ModernUI.WPF4\obj\Debug\FirstFloor.ModernUI.Resources.resources
+C:\Users\AbouzarKamaee\Source\Repos\Manifest\FirstFloor.ModernUI\FirstFloor.ModernUI.WPF4\obj\Debug\FirstFloor.ModernUI.WPF4.csproj.GenerateResource.Cache
+C:\Users\AbouzarKamaee\Source\Repos\Manifest\FirstFloor.ModernUI\FirstFloor.ModernUI.WPF4\obj\Debug\FirstFloor.ModernUI.dll
+C:\Users\AbouzarKamaee\Source\Repos\Manifest\FirstFloor.ModernUI\FirstFloor.ModernUI.WPF4\obj\Debug\FirstFloor.ModernUI.pdb
+C:\Users\AbouzarKamaee\Documents\Visual Studio 2013\Projects\Verifier\FirstFloor.ModernUI\FirstFloor.ModernUI.WPF4\bin\Debug\FirstFloor.ModernUI.XML
+C:\Users\AbouzarKamaee\Documents\Visual Studio 2013\Projects\Verifier\FirstFloor.ModernUI\FirstFloor.ModernUI.WPF4\bin\Debug\FirstFloor.ModernUI.dll
+C:\Users\AbouzarKamaee\Documents\Visual Studio 2013\Projects\Verifier\FirstFloor.ModernUI\FirstFloor.ModernUI.WPF4\bin\Debug\FirstFloor.ModernUI.pdb
+C:\Users\AbouzarKamaee\Documents\Visual Studio 2013\Projects\Verifier\FirstFloor.ModernUI\FirstFloor.ModernUI.WPF4\bin\Debug\Microsoft.Windows.Shell.dll
+C:\Users\AbouzarKamaee\Documents\Visual Studio 2013\Projects\Verifier\FirstFloor.ModernUI\FirstFloor.ModernUI.WPF4\obj\Debug\FirstFloor.ModernUI.WPF4.csprojResolveAssemblyReference.cache
+C:\Users\AbouzarKamaee\Documents\Visual Studio 2013\Projects\Verifier\FirstFloor.ModernUI\FirstFloor.ModernUI.WPF4\obj\Debug\Button.baml
+C:\Users\AbouzarKamaee\Documents\Visual Studio 2013\Projects\Verifier\FirstFloor.ModernUI\FirstFloor.ModernUI.WPF4\obj\Debug\Calendar.baml
+C:\Users\AbouzarKamaee\Documents\Visual Studio 2013\Projects\Verifier\FirstFloor.ModernUI\FirstFloor.ModernUI.WPF4\obj\Debug\CheckBox.baml
+C:\Users\AbouzarKamaee\Documents\Visual Studio 2013\Projects\Verifier\FirstFloor.ModernUI\FirstFloor.ModernUI.WPF4\obj\Debug\ComboBox.baml
+C:\Users\AbouzarKamaee\Documents\Visual Studio 2013\Projects\Verifier\FirstFloor.ModernUI\FirstFloor.ModernUI.WPF4\obj\Debug\ContextMenu.baml
+C:\Users\AbouzarKamaee\Documents\Visual Studio 2013\Projects\Verifier\FirstFloor.ModernUI\FirstFloor.ModernUI.WPF4\obj\Debug\DataGrid.baml
+C:\Users\AbouzarKamaee\Documents\Visual Studio 2013\Projects\Verifier\FirstFloor.ModernUI\FirstFloor.ModernUI.WPF4\obj\Debug\GridSplitter.baml
+C:\Users\AbouzarKamaee\Documents\Visual Studio 2013\Projects\Verifier\FirstFloor.ModernUI\FirstFloor.ModernUI.WPF4\obj\Debug\Hyperlink.baml
+C:\Users\AbouzarKamaee\Documents\Visual Studio 2013\Projects\Verifier\FirstFloor.ModernUI\FirstFloor.ModernUI.WPF4\obj\Debug\Label.baml
+C:\Users\AbouzarKamaee\Documents\Visual Studio 2013\Projects\Verifier\FirstFloor.ModernUI\FirstFloor.ModernUI.WPF4\obj\Debug\ListBox.baml
+C:\Users\AbouzarKamaee\Documents\Visual Studio 2013\Projects\Verifier\FirstFloor.ModernUI\FirstFloor.ModernUI.WPF4\obj\Debug\ListView.baml
+C:\Users\AbouzarKamaee\Documents\Visual Studio 2013\Projects\Verifier\FirstFloor.ModernUI\FirstFloor.ModernUI.WPF4\obj\Debug\MenuItem.baml
+C:\Users\AbouzarKamaee\Documents\Visual Studio 2013\Projects\Verifier\FirstFloor.ModernUI\FirstFloor.ModernUI.WPF4\obj\Debug\ModernUI.Dark.baml
+C:\Users\AbouzarKamaee\Documents\Visual Studio 2013\Projects\Verifier\FirstFloor.ModernUI\FirstFloor.ModernUI.WPF4\obj\Debug\ModernUI.Light.baml
+C:\Users\AbouzarKamaee\Documents\Visual Studio 2013\Projects\Verifier\FirstFloor.ModernUI\FirstFloor.ModernUI.WPF4\obj\Debug\ModernUI.baml
+C:\Users\AbouzarKamaee\Documents\Visual Studio 2013\Projects\Verifier\FirstFloor.ModernUI\FirstFloor.ModernUI.WPF4\obj\Debug\PasswordBox.baml
+C:\Users\AbouzarKamaee\Documents\Visual Studio 2013\Projects\Verifier\FirstFloor.ModernUI\FirstFloor.ModernUI.WPF4\obj\Debug\RadioButton.baml
+C:\Users\AbouzarKamaee\Documents\Visual Studio 2013\Projects\Verifier\FirstFloor.ModernUI\FirstFloor.ModernUI.WPF4\obj\Debug\ScrollBar.baml
+C:\Users\AbouzarKamaee\Documents\Visual Studio 2013\Projects\Verifier\FirstFloor.ModernUI\FirstFloor.ModernUI.WPF4\obj\Debug\TextBlock.baml
+C:\Users\AbouzarKamaee\Documents\Visual Studio 2013\Projects\Verifier\FirstFloor.ModernUI\FirstFloor.ModernUI.WPF4\obj\Debug\TextBox.baml
+C:\Users\AbouzarKamaee\Documents\Visual Studio 2013\Projects\Verifier\FirstFloor.ModernUI\FirstFloor.ModernUI.WPF4\obj\Debug\ToolTip.baml
+C:\Users\AbouzarKamaee\Documents\Visual Studio 2013\Projects\Verifier\FirstFloor.ModernUI\FirstFloor.ModernUI.WPF4\obj\Debug\TreeView.baml
+C:\Users\AbouzarKamaee\Documents\Visual Studio 2013\Projects\Verifier\FirstFloor.ModernUI\FirstFloor.ModernUI.WPF4\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\AbouzarKamaee\Documents\Visual Studio 2013\Projects\Verifier\FirstFloor.ModernUI\FirstFloor.ModernUI.WPF4\obj\Debug\FirstFloor.ModernUI_MarkupCompile.cache
+C:\Users\AbouzarKamaee\Documents\Visual Studio 2013\Projects\Verifier\FirstFloor.ModernUI\FirstFloor.ModernUI.WPF4\obj\Debug\FirstFloor.ModernUI_MarkupCompile.lref
+C:\Users\AbouzarKamaee\Documents\Visual Studio 2013\Projects\Verifier\FirstFloor.ModernUI\FirstFloor.ModernUI.WPF4\obj\Debug\Converters.baml
+C:\Users\AbouzarKamaee\Documents\Visual Studio 2013\Projects\Verifier\FirstFloor.ModernUI\FirstFloor.ModernUI.WPF4\obj\Debug\DatePicker.baml
+C:\Users\AbouzarKamaee\Documents\Visual Studio 2013\Projects\Verifier\FirstFloor.ModernUI\FirstFloor.ModernUI.WPF4\obj\Debug\ModernProgressRing.baml
+C:\Users\AbouzarKamaee\Documents\Visual Studio 2013\Projects\Verifier\FirstFloor.ModernUI\FirstFloor.ModernUI.WPF4\obj\Debug\ProgressBar.baml
+C:\Users\AbouzarKamaee\Documents\Visual Studio 2013\Projects\Verifier\FirstFloor.ModernUI\FirstFloor.ModernUI.WPF4\obj\Debug\Slider.baml
+C:\Users\AbouzarKamaee\Documents\Visual Studio 2013\Projects\Verifier\FirstFloor.ModernUI\FirstFloor.ModernUI.WPF4\obj\Debug\BBCodeBlock.baml
+C:\Users\AbouzarKamaee\Documents\Visual Studio 2013\Projects\Verifier\FirstFloor.ModernUI\FirstFloor.ModernUI.WPF4\obj\Debug\Generic.baml
+C:\Users\AbouzarKamaee\Documents\Visual Studio 2013\Projects\Verifier\FirstFloor.ModernUI\FirstFloor.ModernUI.WPF4\obj\Debug\ModernButton.baml
+C:\Users\AbouzarKamaee\Documents\Visual Studio 2013\Projects\Verifier\FirstFloor.ModernUI\FirstFloor.ModernUI.WPF4\obj\Debug\ModernFrame.baml
+C:\Users\AbouzarKamaee\Documents\Visual Studio 2013\Projects\Verifier\FirstFloor.ModernUI\FirstFloor.ModernUI.WPF4\obj\Debug\ModernMenu.baml
+C:\Users\AbouzarKamaee\Documents\Visual Studio 2013\Projects\Verifier\FirstFloor.ModernUI\FirstFloor.ModernUI.WPF4\obj\Debug\ModernTab.baml
+C:\Users\AbouzarKamaee\Documents\Visual Studio 2013\Projects\Verifier\FirstFloor.ModernUI\FirstFloor.ModernUI.WPF4\obj\Debug\TransitioningContentControl.baml
+C:\Users\AbouzarKamaee\Documents\Visual Studio 2013\Projects\Verifier\FirstFloor.ModernUI\FirstFloor.ModernUI.WPF4\obj\Debug\Assets\ModernWindowEx.baml
+C:\Users\AbouzarKamaee\Documents\Visual Studio 2013\Projects\Verifier\FirstFloor.ModernUI\FirstFloor.ModernUI.WPF4\obj\Debug\Themes\ModernDialog.baml
+C:\Users\AbouzarKamaee\Documents\Visual Studio 2013\Projects\Verifier\FirstFloor.ModernUI\FirstFloor.ModernUI.WPF4\obj\Debug\Themes\ModernWindow.baml
+C:\Users\AbouzarKamaee\Documents\Visual Studio 2013\Projects\Verifier\FirstFloor.ModernUI\FirstFloor.ModernUI.WPF4\obj\Debug\FirstFloor.ModernUI.g.resources
+C:\Users\AbouzarKamaee\Documents\Visual Studio 2013\Projects\Verifier\FirstFloor.ModernUI\FirstFloor.ModernUI.WPF4\obj\Debug\FirstFloor.ModernUI.Resources.resources
+C:\Users\AbouzarKamaee\Documents\Visual Studio 2013\Projects\Verifier\FirstFloor.ModernUI\FirstFloor.ModernUI.WPF4\obj\Debug\FirstFloor.ModernUI.WPF4.csproj.GenerateResource.Cache
+C:\Users\AbouzarKamaee\Documents\Visual Studio 2013\Projects\Verifier\FirstFloor.ModernUI\FirstFloor.ModernUI.WPF4\obj\Debug\FirstFloor.ModernUI.dll
+C:\Users\AbouzarKamaee\Documents\Visual Studio 2013\Projects\Verifier\FirstFloor.ModernUI\FirstFloor.ModernUI.WPF4\obj\Debug\FirstFloor.ModernUI.pdb
