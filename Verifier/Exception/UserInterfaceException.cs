@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Verifier.Exception
+namespace Verifier.Exceptions
 {
     public class UserInterfaceException:System.Exception
     {

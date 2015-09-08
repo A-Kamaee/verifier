@@ -16,3 +16,8 @@ c:\users\abouzarkamaee\documents\visual studio 2013\Projects\Verifier\Verifier\b
 c:\users\abouzarkamaee\documents\visual studio 2013\Projects\Verifier\Verifier\obj\Debug\UI\Template\Wrapper.baml
 c:\users\abouzarkamaee\documents\visual studio 2013\Projects\Verifier\Verifier\obj\Debug\App.baml
 c:\users\abouzarkamaee\documents\visual studio 2013\Projects\Verifier\Verifier\obj\Debug\UI\Template\Wrapper.g.cs
+C:\Users\AbouzarKamaee\documents\visual studio 2013\Projects\Verifier\Verifier\bin\Debug\Verifier.exe.manifest
+C:\Users\AbouzarKamaee\documents\visual studio 2013\Projects\Verifier\Verifier\bin\Debug\Verifier.application
+C:\Users\AbouzarKamaee\documents\visual studio 2013\Projects\Verifier\Verifier\obj\Debug\Verifier.TrustInfo.xml
+C:\Users\AbouzarKamaee\documents\visual studio 2013\Projects\Verifier\Verifier\obj\Debug\Verifier.exe.manifest
+C:\Users\AbouzarKamaee\documents\visual studio 2013\Projects\Verifier\Verifier\obj\Debug\Verifier.application
