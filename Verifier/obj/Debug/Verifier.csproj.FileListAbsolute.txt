@@ -21,3 +21,7 @@ C:\Users\AbouzarKamaee\documents\visual studio 2013\Projects\Verifier\Verifier\b
 C:\Users\AbouzarKamaee\documents\visual studio 2013\Projects\Verifier\Verifier\obj\Debug\Verifier.TrustInfo.xml
 C:\Users\AbouzarKamaee\documents\visual studio 2013\Projects\Verifier\Verifier\obj\Debug\Verifier.exe.manifest
 C:\Users\AbouzarKamaee\documents\visual studio 2013\Projects\Verifier\Verifier\obj\Debug\Verifier.application
+C:\Users\AbouzarKamaee\documents\visual studio 2013\Projects\Verifier\Verifier\bin\Debug\Ionic.Zip.dll
+C:\Users\AbouzarKamaee\documents\visual studio 2013\Projects\Verifier\Verifier\bin\Debug\Ionic.Zip.xml
+C:\Users\AbouzarKamaee\documents\visual studio 2013\Projects\Verifier\Verifier\bin\Debug\Resources\publicKey.der
+C:\Users\AbouzarKamaee\documents\visual studio 2013\Projects\Verifier\Verifier\obj\Debug\Verifier_Content.g.cs

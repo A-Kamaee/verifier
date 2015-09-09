@@ -8,6 +8,6 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("ui/assets/qrcode.png")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("resources/publickey.der")]
 
 
