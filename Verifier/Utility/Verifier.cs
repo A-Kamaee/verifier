@@ -1,17 +1,16 @@
-﻿using System.IO;
+﻿using System;
+using System.IO;
 using System.Security.Cryptography;
 
 namespace Verifier.Utility
 {
     public static class Verifier
     {
-        public static bool Verify(byte[] data)
+        public static bool Verify(byte[] data, byte[] signature)
         {
-            byte[] publicKey =
-                File.ReadAllBytes(@"../Resources/publicKey.der");
-
-            byte[] signature =
-                    File.ReadAllBytes("C:\\Users\\AbouzarKamaee\\Documents\\visual studio 2013\\Projects\\Ashkan\\Ashkan\\signed_file");
+            string basePath =
+                System.IO.Path.GetDirectoryName(System.Diagnostics.Process.GetCurrentProcess().MainModule.FileName) + "\\";
+            byte[] publicKey = File.ReadAllBytes(basePath + "Resources\\publicKey.der");
 
             RSACryptoServiceProvider csp = RSACryptoServiceHelper.DecodeX509PublicKey(publicKey);
 
