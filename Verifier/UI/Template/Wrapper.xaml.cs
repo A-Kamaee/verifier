@@ -18,9 +18,11 @@ using System.Windows.Shapes;
 using Ionic.Crc;
 using Ionic.Zip;
 using Microsoft.Win32;
+using mshtml;
 using Verifier.Exceptions;
 using Verifier.Reources;
 using Verifier.Utility;
+
 
 namespace Verifier.UI.Template
 {
@@ -38,6 +40,16 @@ namespace Verifier.UI.Template
         {
             MessageBox.Show(ex.Message, "نقص اطلاعات", MessageBoxButton.OK, MessageBoxImage.Error,
                     MessageBoxResult.OK, MessageBoxOptions.RightAlign | MessageBoxOptions.RtlReading);
+            ShowError();
+        }
+
+        public void ShowError()
+        {
+            imgCross.Visibility = Visibility.Visible;
+            imgTick.Visibility = Visibility.Collapsed;
+            imgLogo.Visibility = Visibility.Visible;
+            webBrowser.Visibility = Visibility.Collapsed;
+            lblMessage.Text = "اطلاعات قابل تایید نمی باشند!";
         }
 
         private void BtnUploadFile_OnClick(object sender, RoutedEventArgs e)
@@ -55,16 +67,16 @@ namespace Verifier.UI.Template
                     bool verificationStatus = Utility.Verifier.Verify(data, signed);
                     if (verificationStatus == true)
                     {
-                        imgCross.Visibility = Visibility.Hidden;
+                        imgCross.Visibility = Visibility.Collapsed;
                         imgTick.Visibility = Visibility.Visible;
                         lblMessage.Text = "اطلاعات مورد تایید می باشد.";
                         webBrowser.NavigateToString(Encoding.UTF8.GetString(data)); 
+                        imgLogo.Visibility = Visibility.Collapsed;
+                        webBrowser.Visibility = Visibility.Visible;
                     }
                     else
                     {
-                        imgCross.Visibility = Visibility.Visible;
-                        imgTick.Visibility = Visibility.Hidden;
-                        lblMessage.Text = "اطلاعات قابل تایید نمی باشند!";
+                        ShowError();
                     }
                 }
             }
@@ -113,8 +125,15 @@ namespace Verifier.UI.Template
 
         private void WebBrowser_OnLoadCompleted(object sender, NavigationEventArgs e)
         {
-            const string script = "document.body.style.overflow ='hidden'";
-            webBrowser.InvokeScript("execScript", new Object[] { script, "JavaScript" });
+//            var doc = webBrowser.Document as HTMLDocument;
+//            var collection = doc.getElementsByTagName("body");
+//
+//            foreach (IHTMLElement input in collection)
+//            {
+//                input.style.setAttribute("overflow", "hidden");
+//            }
+//            const string script = "document.body.style.overflow ='hidden'";
+//            webBrowser.InvokeScript("execScript", new Object[] { script, "JavaScript" });
         }
     }
 }
